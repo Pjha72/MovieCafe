@@ -15,12 +15,16 @@ MovieCafe : Netflix Clone Type Web Application
   
   
   From Admin Side: 
+  
   Admin has to first login with their credentials.
-  All CRUD functionality is implemented through CRUD API
+  
+  All CRUD functionality is implemented through CRUD API.
+  
   Admin can create, delete, update the movies based upon the requirements.
   
   
   Tech Stack:
+  
   FrontEnd: ReactJs
   Backend:  NodeJs, ExpressJs
   DataBase: MongoDB Atlas
