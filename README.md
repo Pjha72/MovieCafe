@@ -30,6 +30,17 @@ MovieCafe : Netflix Clone Type Web Application
   DataBase: MongoDB Atlas
   
   
+  To Run Project:
+   
+  1. clone the project using command : git clone on local machine
+  2. see package.json file for all required libraries and packages
+  3. run command " npm install " to install all the requiered libraries
+  4. run yarn install to install all yarn libraries.
+  5. after installing all required libraries
+  6. from client side run command : npm start
+  7. from server side run command:  yarn start
+  
+  
   
   Project Demo Screenshots: 
   
